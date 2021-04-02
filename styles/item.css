@@ -1,0 +1,12 @@
+.item-card {
+  align-items: center;
+  width: fit-content;
+  border-radius: 10px;
+  margin: 40px;
+}
+.item-card img {
+  object-fit: cover;
+  border-radius: 10px;
+  width: 250px;
+  height: 200px;
+}
